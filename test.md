@@ -82,7 +82,7 @@ struct GetKVBatchRsp
   1 require vector<SKeyValue> values;  //结果集合
 };
 ```
-
+\geq
 **返回值**：
 
 返回值 | 含义
